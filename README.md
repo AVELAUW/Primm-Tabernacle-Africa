@@ -1,2 +1,2 @@
 # Church
-https://qink0.github.io/Church/
+example:https://avelauw.github.io/Primm-Tabernacle-Africa/
